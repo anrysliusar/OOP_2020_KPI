@@ -3,7 +3,7 @@ package com.company;
 
 public class Lab_2 {
 
-    public static void Lab_2(String[] args) {
+    public static void lab_2(String[] args) {
         final int a = 5;
         long SumMax = 0;
         long SumMin = 0;
