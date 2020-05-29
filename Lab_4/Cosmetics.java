@@ -36,6 +36,6 @@ public class Cosmetics {
                 + ", appointment: " + appointment
                 + ", name: " + name
                 + ", trademark: " + trademark
-                + ", weight: " + weight;
+                + ", weight (g): " + weight;
     }
 }
