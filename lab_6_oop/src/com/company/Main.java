@@ -59,7 +59,7 @@ public class Main {
         operation.loadRoom(arrSmallCars , arrMediumCars, arrBigCars, arrBalls, arrDolls, arrCubes, 1500);
         operation.printLoad();
         operation.getLoad().sort(new ComparatorByPrice());
-        System.out.println("\n\n\n");
+        System.out.println("\n\n\n\n");
 
         operation.printLoad();
         try {
