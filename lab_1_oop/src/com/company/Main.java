@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         double s = 0;
-        char a = 3, b = 3, n = 6, m = 10;
+        int a = 3, b = 3, n = 6, m = 10;
         final int C = 2;
 
         if (a <= C && C <= n) {
