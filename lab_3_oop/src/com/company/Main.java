@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Введіть текст");
+        System.out.println("Enter text");
         Scanner my_text = new Scanner(System.in);
         String fin_text = my_text.nextLine();
         my_text.close();
